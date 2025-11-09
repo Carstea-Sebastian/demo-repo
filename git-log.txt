@@ -1,0 +1,17 @@
+commit 9b77663d9ce1eb58fd0832aa73f9c93c98a57fdc
+Author: CSebastian14 <mihaisebastian.carstea@ulbsibiu.ro>
+Date:   Sat Nov 8 22:12:18 2025 +0200
+
+    log export
+
+commit 9c17ddca20c18bde7d8f2b8b7dfb5b92f03da050
+Author: CSebastian14 <mihaisebastian.carstea@ulbsibiu.ro>
+Date:   Sat Nov 8 22:11:09 2025 +0200
+
+    first
+
+commit 0af58cbd2a1313be5bb688e717dcd3c58457ec8c
+Author: Carstea Sebastian <csimlu73@gmail.com>
+Date:   Sat Nov 8 21:59:59 2025 +0200
+
+    Prima versiune.
